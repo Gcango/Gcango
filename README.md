@@ -1,5 +1,5 @@
 <!-- CABEÇALHO PRINCIPAL -->
-<h1 align="center">Olá! 👋 Eu sou Geraldo Ernest Miguel Cangondo</h1>
+<h1 align="center">Olá! 👋 Eu sou Geraldo Cangondo </h1>
 <h3 align="center">🚀 IoT Research, Computer Networks | Data Analytics| Machine Learning | Programador Python</h3>
 
 <!-- BADGES DE TECNOLOGIAS -->
