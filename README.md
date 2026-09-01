@@ -117,7 +117,7 @@
 </div>
 
 <div align="center">
-  📞 Telefone/WhatsApp: 910899543
+  📞 Email:geraldo.cangondo@ubi.pt
 </div>
 
 ---
