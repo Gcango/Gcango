@@ -1,6 +1,6 @@
 <!-- CABEÇALHO PRINCIPAL -->
 <h1 align="center">Olá! 👋 Eu sou Geraldo Cangondo </h1>
-<h3 align="center">🚀 IoT Research, Computer Networks | Data Analytics| Machine Learning | Programador Python</h3>
+<h3 align="center">🚀 IoT Research - Cooperation and Reputation Node, Computer Networks | Machine Learning | Data Science </h3>
 
 <!-- BADGES DE TECNOLOGIAS -->
 <p align="center">
